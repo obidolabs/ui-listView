@@ -2,3 +2,6 @@ node_modules
 bower_components
 .DS_Store
 _site
+
+#PHPStorm
+.idea
